@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Permissions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -13,6 +14,9 @@ namespace CSharpEgitimKampi301.EntityLayer.Concrete
         public int ProductStock { get; set; }
         public decimal ProductPrice { get; set; }
         public string ProductDescription { get; set; }
+        public int CategoryId { get; set; }
+        public virtual Category Catergory { get; set; }
+        public List<Order> Orders { get; set; }
 
     }
 }

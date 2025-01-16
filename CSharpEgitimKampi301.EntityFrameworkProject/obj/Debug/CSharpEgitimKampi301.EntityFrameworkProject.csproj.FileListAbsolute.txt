@@ -13,3 +13,4 @@ C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFram
 C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFrameworkProject\obj\Debug\CSharpEg.4B41377E.Up2Date
 C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFrameworkProject\obj\Debug\CSharpEgitimKampi301.EntityFrameworkProject.exe
 C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFrameworkProject\obj\Debug\CSharpEgitimKampi301.EntityFrameworkProject.pdb
+C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFrameworkProject\obj\Debug\CSharpEgitimKampi301.EntityFrameworkProject.FormLocation.resources

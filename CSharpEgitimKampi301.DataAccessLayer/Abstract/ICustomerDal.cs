@@ -7,7 +7,7 @@ using CSharpEgitimKampi301.EntityLayer.Concrete;
 
 namespace CSharpEgitimKampi301.DataAccessLayer.Abstract
 {
-    public interface ICustomerDal: IGenericDal<Customer>
+    public interface ICustomerDal : IGenericDal<Customer>
     {
     }
 }

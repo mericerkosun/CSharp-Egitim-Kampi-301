@@ -4,35 +4,43 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using CSharpEgitimKampi301.BusinessLayer.Abstract;
+using CSharpEgitimKampi301.DataAccessLayer.Abstract;
 using CSharpEgitimKampi301.EntityLayer.Concrete;
 
 namespace CSharpEgitimKampi301.BusinessLayer.Concrete
 {
     public class OrderManager : IOrderService
     {
+        private readonly IOrderDal _orderdal;
+
+        public OrderManager(IOrderDal orderdal)
+        {
+            _orderdal = orderdal;
+        }
+
         public void TDelete(Order entity)
         {
-            throw new NotImplementedException();
+            _orderdal.Delete(entity);
         }
 
         public List<Order> TGetAll()
         {
-            throw new NotImplementedException();
+            return _orderdal.GetAll();
         }
 
         public Order TGetById(int id)
         {
-            throw new NotImplementedException();
+            return _orderdal.GetById(id);
         }
 
         public void TInsert(Order entity)
         {
-            throw new NotImplementedException();
+            _orderdal.Insert(entity);
         }
 
         public void TUpdate(Order entity)
         {
-            throw new NotImplementedException();
+            _orderdal.Update(entity);
         }
     }
 }

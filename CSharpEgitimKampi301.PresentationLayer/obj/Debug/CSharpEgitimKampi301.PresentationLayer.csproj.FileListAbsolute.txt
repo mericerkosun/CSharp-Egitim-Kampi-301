@@ -11,13 +11,13 @@ C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.Presentati
 C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.dll
 C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll
-C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.EntityFrameworkProject.exe
 C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.pdb
 C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.xml
 C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.pdb
 C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
-C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.EntityFrameworkProject.pdb
-C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.EntityFrameworkProject.exe.config
 C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.FrmCategory.resources
 C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEg.3E4FD578.Up2Date
+C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
+C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
+C:\Users\meric\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll.config
